@@ -1,0 +1,26 @@
+_repo: La-Marquise-de-Boufflers-et-son-fils-le-chevalier-de-Boufflers_51606
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maugras, Gaston
+    birthdate: 1850
+    deathdate: 1927
+    gutenberg_agent_id: '41973'
+    url: http://www.gutenberg.org/2009/agents/41973
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2016-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51606'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boufflers, Stanislas-Jean de, 1738-1815'
+- !lcc 'DC'
+- !lcsh 'Boufflers, Marie Françoise Catherine de Beauvau, marquise de, 1711-1786'
+- GITenberg
+title: La Marquise de Boufflers et son fils, le chevalier de Boufflers
+url: http://www.gutenberg.org/ebooks/51606
